@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm studying at Srinakharinwirot University (Computer Engineering)
 ------------------------------------------------------------------
 
-I’m looking for an internship as full stack.
+I’m looking for an internship as Full stack and Backend.
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/pinmanee-vajrapatkul-45b30b344/)
